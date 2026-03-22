@@ -11,7 +11,8 @@
 dont ask why ground output is all the way down there. I don't know
 
 ## CAD
-<img width="1322" height="704" alt="image" src="https://github.com/user-attachments/assets/6b556fba-54e2-447a-9252-696bbe51a2e3" />
+<img width="708" height="472" alt="image" src="https://github.com/user-attachments/assets/da0ecd5c-d25e-4172-bd7a-68f7c538d005" />
+
 Hope you like the simple design! Added ascii cat images and my cats name onto the case :D
 
 ## Firmware
